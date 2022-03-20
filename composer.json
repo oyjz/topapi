@@ -7,5 +7,6 @@
             "Topsdk\\Topapi\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+	"license": "Apache",
 }
